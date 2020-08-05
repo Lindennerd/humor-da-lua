@@ -1,0 +1,33 @@
+{
+  "name": "humor-da-lua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lindennerd/humor-da-lua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lindennerd/humor-da-lua/issues"
+  },
+  "homepage": "https://github.com/Lindennerd/humor-da-lua#readme",
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "hbs": "~4.0.4",
+    "http-errors": "~1.6.3",
+    "jquery": "^3.4.1",
+    "mongoose": "^5.9.6",
+    "morgan": "~1.9.1",
+    "request": "^2.88.2"
+  }
+}
